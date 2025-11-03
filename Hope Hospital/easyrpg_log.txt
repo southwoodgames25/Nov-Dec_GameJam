@@ -1,0 +1,34 @@
+[2025-11-02 21:15:55] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2025-11-02 21:15:55] Debug: =======================================
+[2025-11-02 21:15:55] Debug: CLI: 
+[2025-11-02 21:15:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-11-02 21:15:55] Debug: Seeded the RNG with 1762136155.
+[2025-11-02 21:15:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-11-02 21:15:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-11-02 21:15:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-11-02 21:15:55] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-11-02 21:15:55] Debug: Game and Save Directory:
+[2025-11-02 21:15:55] Debug: 1: [Native] 
+[2025-11-02 21:15:56] Debug: Loading game HP
+[2025-11-02 21:15:56] Debug: Analyzing RPG_RT RPG_RT.exe
+[2025-11-02 21:15:56] Debug: EXEReader: BITMAP not found.
+[2025-11-02 21:15:56] Debug: EXEReader: VERSIONINFO resource found (DE 0x1541e8; 0x159f68; len 0x258)
+[2025-11-02 21:15:56] Debug: RPG_RT information: version=1.1.2.1 logos=0 i386=true easyrpg=false
+[2025-11-02 21:15:56] Debug: Unable to detect version from exe
+[2025-11-02 21:15:56] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-11-02 21:15:56] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-11-02 21:15:56] Debug: RTP is "Official English" (675/675)
+[2025-11-02 21:15:56] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2025-11-02 21:15:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2025-11-02 21:15:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2025-11-02 21:15:56] Debug: Cannot find: Font/Font
+[2025-11-02 21:15:56] Debug: Cannot find: Font/Font2
+[2025-11-02 21:15:57] Debug: Resolution changed to 320x240
+[2025-11-02 21:15:57] Debug: libpng: iCCP: known incorrect sRGB profile
+[2025-11-02 21:15:57] Debug: libpng: cHRM: inconsistent chromaticities
+[2025-11-02 21:15:57] Debug: Game uses RTP "Official English"
+[2025-11-02 21:15:57] Debug: Fluidsynth: Could not load soundfont.
+[2025-11-02 21:15:57] Debug: WildMidi: Could not find configuration file.
+[2025-11-02 21:16:00] Warning: The game has no start location set.
+[2025-11-02 21:16:03] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2025-11-02 21:16:03] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
